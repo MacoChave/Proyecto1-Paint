@@ -1,0 +1,17 @@
+c:\users\u\Visual Studio 2013\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Proyecto1.vbproj.ResolveComReference.cache
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Resources.resources
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Proyecto1.UserManual.resources
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Proyecto1.ViewWeb.resources
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Proyecto1.vbproj.GenerateResource.Cache
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Proyecto1.xml
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\bin\Debug\Proyecto1.xml
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\u\Visual Studio 2013\Proyecto1\Proyecto1\bin\Debug\AxInterop.AcroPDFLib.dll
